@@ -1,0 +1,12 @@
+@theme "/home/omer/.local/share/rofi/themes/rounded-nord-dark.rasi"
+configuration {
+modes: "window,drun,run,filebrowser";
+display-filebrowser: " ";
+display-drun: " ";
+show-icons: true;
+}
+* {
+font: "JetbrainsMono Nerd Font 15";
+}
+
+
