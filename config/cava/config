@@ -1,0 +1,19 @@
+[general]
+# Spektrumun akıcılığı için örnekleme hızı
+framerate = 60
+
+[input]
+# Ses kaynağını otomatik seçmesi için
+method = pulse
+source = auto
+
+[color]
+# Arka plan terminalin şeffaflığını kullansın (0.85 ayarın için)
+background = default
+
+# Senin seçtiğin o güzel açık mavi tonu
+foreground = '#B4D1FE'
+
+[shadow]
+# Gölgeleri kapatmak renklerin daha net görünmesini sağlar
+# (İstersen burayı sonra değiştirebiliriz)
